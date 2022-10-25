@@ -1,4 +1,4 @@
-# 23.4 Вызов исключений: оператор raise
+# Задача 1. Имена
 
 count = 0
 user_file = open('people.txt', 'r', encoding='utf-8')
